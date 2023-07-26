@@ -1,4 +1,3 @@
-# Elysium Cloud Wallet front end app
 
 ## Getting Started
 
